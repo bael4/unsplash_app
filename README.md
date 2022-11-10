@@ -5,3 +5,11 @@
 - когда пользователь нажимает на изображение, открывается экран фотографии 
 - Фотография отображает одну фотографию с максимальной площадью.
 
+примененныетехнологии:
+* React-Native
+* Redux + Async Redux library (redux-thunk)
+* es6 (JS)
+* Flexbox
+* React Navigation
+* fetch
+* Hooks
